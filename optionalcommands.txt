@@ -1,0 +1,34 @@
+ls,l. long list: list files with more detailed information while listing
+ls,h. human readable: list files in a format easier for humans to read
+ls,a. all: includes hidden files in list
+lsblk,l. list: displays device in a list structure
+lsblk,P. pairs: displays in a key value pair forma
+md5sum,c. check: read MD5 sums from the File and checks them
+uname,a. all: prints all information about system
+mkdir,m. mode: sets file mode(as in chmod)
+mkdir,v. verbose: prints a message for each created directory
+touch,c. no create: do not create any files
+chmod,v. verbose: output a diagnostic for every file processed
+chmod,755. 755: gives owner all permissions and group and anyone read and execute(useful for scripts)
+chmod,666. 666: gives owner group and anyone read and write permission
+chmod,444. 444: gives owner group and anyone read permission
+chmod,222. 222: gives owner group and anyone write permission
+chmod,111. 111: gives owner group and anyone execute permission
+chown,v. verbose: output a diagnostic for every file processed
+apt,list.list: list all availble packages
+apt,list --installed. list installed: list all installed packages
+apt,list --upgradable. list upgradble: list all upgradable packages
+apt,show.show: shows the package information for the given package
+apt,install.install: installs the given package
+apt,remove. remove: removes the given package
+tar,c. create: creates a new archive
+tar,A. catenate: append tar fles to an archive
+tar,t. list: list the contents of an archive
+tar,u. update: only append files newer than copy in archive
+tar,a. auto compress: use archive suffix to determine the compression program
+cat,n. number: number all output lines
+cp,b. backup: makes backup of each existing destination file
+cp,i. interactive: prompt before overwrite
+mv,b. backup: makes backup of each file moving
+mv,i. interactive: prompts before overwriting a file
+mv,u. update: moves only when the source file is newer than the destination file or when the destination file is missing

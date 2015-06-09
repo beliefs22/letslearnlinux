@@ -1,20 +1,20 @@
-ls,List Directory Contents. List the contents of given directory,-l. Long Listing, -h. Human Redable, -a. Include Hidden files
-lsblk,List Block Devices. List devices by their assigned name,-l. List Blocks in list structure instead of tree structure
-md5sum,Computes and Checks MD5 Message Digest. Usefule for making sure things were installed correctly
-dd,Convert and Copy a file. Useful for making images be careful not to overwrite important drives
-uname,Unix Name. Prints detailed information about the machine name
-history,History(Event) Record. Prints the history of executed commmands
-sudo,Super user Do. Allows a permitted user to excute command as the super user
-mkdir,Make Directory. Creates a new directory with name path
-touch,touch. Updatese the access and modification time if file doesn't exist creates it
-chmod,a change file mode bits. Changes the permissions of a fie,777.  all read, 755.  owner all group and anyone read and write, 666. all read and write, 111. all execute
-chown,Change file owner and group. Changes file owner and group
-apt,Advance Package Tool. Used to search install updateand resolve dependencies
-tar,Tape Archive. Creates an Archive
-cal,Calendar. Displays a calendar
-date,Date. Displays current date,--set. Sets current date
-cat,Concatenation. Join two or more plain file and/or print them to standard output
-cp,Copy. Copies a file from one location to another location
-mv,Move. Moves file from one location to another Can be used to rename files
-pwd,Print Working Directory. Prints the current working directory with full path name
-cd,Change Directory. Changes current directory to given path
+ls,List Directory Contents: List the contents of given directory
+lsblk,List Block Devices: List devices by their assigned name
+md5sum,Computes and Checks MD5 Message Digest: Usefule for making sure things were installed correctly
+dd,Convert and Copy a file: Useful for making images be careful not to overwrite important drives
+uname,Unix Name: Prints detailed information about the machine name
+history,History(Event) Record: Prints the history of executed commmands
+sudo,Super user Do: Allows a permitted user to excute command as the super user
+mkdir,Make Directory: Creates a new directory at the given path
+touch,touch: Updates the access and modification time if file doesn't exist creates it
+chmod,a change file mode bits: Changes the permissions of a file
+chown,Change file owner and group: Changes file owner and group
+apt,Advance Package Tool: Used to search install update and resolve dependencies
+tar,Tape Archive: Creates an Archive
+cal,Calendar: Displays a calendar
+date,Date: Displays current date
+cat,Concatenation:  Join two or more plain file and/or print them to standard output
+cp,Copy: Copies a file from one location to another location
+mv,Move: Moves file from one location to another Can be used to rename files
+pwd,Print Working Directory: Prints the current working directory with full path name
+cd,Change Directory: Changes current directory to given path
